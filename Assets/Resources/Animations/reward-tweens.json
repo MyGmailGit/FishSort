@@ -1,0 +1,231 @@
+{
+  "popupFlightStart": 1.4,
+  "piggyStart": 0.2,
+  "lastScale": 1.4,
+  "rootDestroyAfter": 2,
+  "contentScale": 1.5,
+  "nativeToDesign": 0.6666666666666666,
+  "parallel1Base": 0.17,
+  "parallel1PerIndex": 0.02,
+  "parallel2Position": 0.12,
+  "parallel2Scale": 0.14,
+  "overshootPosition": 1.03,
+  "overshootScale": 1.6,
+  "settleScale": 1.5,
+  "finalScale": 1.4,
+  "nodeDestroyDelay": 0.07,
+  "tracks": [
+    {
+      "name": "rp15",
+      "group": "top",
+      "index": 0,
+      "x": -100,
+      "y": -2,
+      "delay": 0.25,
+      "movieTime": 0.21
+    },
+    {
+      "name": "rp14",
+      "group": "top",
+      "index": 1,
+      "x": 75,
+      "y": -1,
+      "delay": 0.22,
+      "movieTime": 0.21
+    },
+    {
+      "name": "rp13",
+      "group": "top",
+      "index": 2,
+      "x": -130,
+      "y": 62,
+      "delay": 0.24,
+      "movieTime": 0.21
+    },
+    {
+      "name": "rp12",
+      "group": "top",
+      "index": 3,
+      "x": -170,
+      "y": -1,
+      "delay": 0.23,
+      "movieTime": 0.22
+    },
+    {
+      "name": "rp3",
+      "group": "top",
+      "index": 4,
+      "x": -39,
+      "y": 118,
+      "delay": 0.21,
+      "movieTime": 0.22
+    },
+    {
+      "name": "rp11",
+      "group": "top",
+      "index": 5,
+      "x": 138,
+      "y": -1,
+      "delay": 0.23,
+      "movieTime": 0.22
+    },
+    {
+      "name": "rp10",
+      "group": "top",
+      "index": 6,
+      "x": -56,
+      "y": -2,
+      "delay": 0.22,
+      "movieTime": 0.22
+    },
+    {
+      "name": "rp9",
+      "group": "top",
+      "index": 7,
+      "x": 20,
+      "y": -3,
+      "delay": 0.2,
+      "movieTime": 0.22
+    },
+    {
+      "name": "rp8",
+      "group": "top",
+      "index": 8,
+      "x": 100,
+      "y": -1,
+      "delay": 0.21,
+      "movieTime": 0.22
+    },
+    {
+      "name": "rp7",
+      "group": "top",
+      "index": 9,
+      "x": 105,
+      "y": 36,
+      "delay": 0.24,
+      "movieTime": 0.2
+    },
+    {
+      "name": "rp6",
+      "group": "top",
+      "index": 10,
+      "x": 198,
+      "y": 87,
+      "delay": 0.24,
+      "movieTime": 0.21
+    },
+    {
+      "name": "rp5",
+      "group": "top",
+      "index": 11,
+      "x": 60,
+      "y": -1,
+      "delay": 0.25,
+      "movieTime": 0.2
+    },
+    {
+      "name": "rp4",
+      "group": "top",
+      "index": 12,
+      "x": -119,
+      "y": -2,
+      "delay": 0.215,
+      "movieTime": 0.225
+    },
+    {
+      "name": "rp2",
+      "group": "top",
+      "index": 13,
+      "x": -27,
+      "y": -1,
+      "delay": 0.225,
+      "movieTime": 0.225
+    },
+    {
+      "name": "rp1",
+      "group": "top",
+      "index": 14,
+      "x": -150,
+      "y": -4,
+      "delay": 0.235,
+      "movieTime": 0.225
+    },
+    {
+      "name": "pig1",
+      "group": "piggy",
+      "index": 0,
+      "x": 170,
+      "y": -2,
+      "delay": 0.21,
+      "movieTime": 0.22
+    },
+    {
+      "name": "pig2",
+      "group": "piggy",
+      "index": 1,
+      "x": 170,
+      "y": -1,
+      "delay": 0.21,
+      "movieTime": 0.225
+    },
+    {
+      "name": "pig3",
+      "group": "piggy",
+      "index": 2,
+      "x": 170,
+      "y": -1,
+      "delay": 0.21,
+      "movieTime": 0.23
+    },
+    {
+      "name": "pig4",
+      "group": "piggy",
+      "index": 3,
+      "x": 170,
+      "y": -1,
+      "delay": 0.21,
+      "movieTime": 0.235
+    },
+    {
+      "name": "pig5",
+      "group": "piggy",
+      "index": 4,
+      "x": 170,
+      "y": -1,
+      "delay": 0.21,
+      "movieTime": 0.24
+    }
+  ],
+  "drawOrder": [
+    "rp1",
+    "fail1",
+    "rp2",
+    "rp4",
+    "fail2",
+    "rp5",
+    "rp6",
+    "fail3",
+    "rp7",
+    "rp8",
+    "fail4",
+    "rp9",
+    "rp10",
+    "fail5",
+    "rp11",
+    "rp3",
+    "fail6",
+    "rp12",
+    "rp13",
+    "fail7",
+    "rp14",
+    "rp15",
+    "fail8",
+    "pig1",
+    "pig2",
+    "pig3",
+    "pig4",
+    "pig5"
+  ],
+  "source_script_sha256": "e905ac365babddb1e7fc2f45f92989b6a39f20d8d947610944614eb5468dab01",
+  "executed": false
+}

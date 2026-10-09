@@ -1,0 +1,407 @@
+{
+  "clips": [
+    {
+      "key": "hudwheel_zhuandong",
+      "frames": 24,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 3
+    },
+    {
+      "key": "hudpig_jinbi",
+      "frames": 90,
+      "duration": 2.5714285714285716,
+      "columns": 8,
+      "rows": 12
+    },
+    {
+      "key": "gift_daiji",
+      "frames": 90,
+      "duration": 3.0,
+      "columns": 8,
+      "rows": 12
+    },
+    {
+      "key": "gift_dakai",
+      "frames": 92,
+      "duration": 3.066666666666667,
+      "columns": 8,
+      "rows": 12
+    },
+    {
+      "key": "spinhand_newAnimation",
+      "frames": 31,
+      "columns": 8,
+      "rows": 4,
+      "duration": 1.2917
+    },
+    {
+      "key": "fish0_daiji",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish0_youdong",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish0_xuanzhong",
+      "frames": 1,
+      "duration": 1,
+      "columns": 8,
+      "rows": 1,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish1_daiji",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish1_youdong",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish1_xuanzhong",
+      "frames": 1,
+      "duration": 1,
+      "columns": 8,
+      "rows": 1,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish2_daiji",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish2_youdong",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish2_xuanzhong",
+      "frames": 1,
+      "duration": 1,
+      "columns": 8,
+      "rows": 1,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish3_daiji",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish3_youdong",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish3_xuanzhong",
+      "frames": 1,
+      "duration": 1,
+      "columns": 8,
+      "rows": 1,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish4_daiji",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish4_youdong",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish4_xuanzhong",
+      "frames": 1,
+      "duration": 1,
+      "columns": 8,
+      "rows": 1,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish5_daiji",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish5_youdong",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish5_xuanzhong",
+      "frames": 1,
+      "duration": 1,
+      "columns": 8,
+      "rows": 1,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish6_daiji",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish6_youdong",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish6_xuanzhong",
+      "frames": 1,
+      "duration": 1,
+      "columns": 8,
+      "rows": 1,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish7_daiji",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish7_youdong",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish7_xuanzhong",
+      "frames": 1,
+      "duration": 1,
+      "columns": 8,
+      "rows": 1,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish8_daiji",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish8_youdong",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish8_xuanzhong",
+      "frames": 1,
+      "duration": 1,
+      "columns": 8,
+      "rows": 1,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish9_daiji",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish9_youdong",
+      "frames": 60,
+      "duration": 1.0,
+      "columns": 8,
+      "rows": 8,
+      "worldSize": 409.6
+    },
+    {
+      "key": "fish9_xuanzhong",
+      "frames": 1,
+      "duration": 1,
+      "columns": 8,
+      "rows": 1,
+      "worldSize": 409.6
+    },
+    {
+      "key": "online_us_daiji",
+      "frames": 90,
+      "columns": 10,
+      "rows": 9,
+      "duration": 3,
+      "worldSize": 640
+    },
+    {
+      "key": "online_us_dakai",
+      "frames": 92,
+      "columns": 10,
+      "rows": 10,
+      "duration": 3.0667,
+      "worldSize": 640
+    },
+    {
+      "key": "online_br_daiji",
+      "frames": 90,
+      "columns": 10,
+      "rows": 9,
+      "duration": 3,
+      "worldSize": 640
+    },
+    {
+      "key": "online_br_dakai",
+      "frames": 92,
+      "columns": 10,
+      "rows": 10,
+      "duration": 3.0667,
+      "worldSize": 640
+    },
+    {
+      "key": "online_id_daiji",
+      "frames": 90,
+      "columns": 10,
+      "rows": 9,
+      "duration": 3,
+      "worldSize": 640
+    },
+    {
+      "key": "online_id_dakai",
+      "frames": 92,
+      "columns": 10,
+      "rows": 10,
+      "duration": 3.0667,
+      "worldSize": 640
+    },
+    {
+      "key": "online_ru_daiji",
+      "frames": 90,
+      "columns": 10,
+      "rows": 9,
+      "duration": 3,
+      "worldSize": 640
+    },
+    {
+      "key": "online_ru_dakai",
+      "frames": 92,
+      "columns": 10,
+      "rows": 10,
+      "duration": 3.0667,
+      "worldSize": 640
+    },
+    {
+      "key": "online_de_daiji",
+      "frames": 90,
+      "columns": 10,
+      "rows": 9,
+      "duration": 3,
+      "worldSize": 640
+    },
+    {
+      "key": "online_de_dakai",
+      "frames": 92,
+      "columns": 10,
+      "rows": 10,
+      "duration": 3.0667,
+      "worldSize": 640
+    },
+    {
+      "key": "online_kr_daiji",
+      "frames": 90,
+      "columns": 10,
+      "rows": 9,
+      "duration": 3,
+      "worldSize": 640
+    },
+    {
+      "key": "online_kr_dakai",
+      "frames": 92,
+      "columns": 10,
+      "rows": 10,
+      "duration": 3.0667,
+      "worldSize": 640
+    },
+    {
+      "key": "online_jp_daiji",
+      "frames": 90,
+      "columns": 10,
+      "rows": 9,
+      "duration": 3,
+      "worldSize": 640
+    },
+    {
+      "key": "online_jp_dakai",
+      "frames": 92,
+      "columns": 10,
+      "rows": 10,
+      "duration": 3.0667,
+      "worldSize": 640
+    },
+    {
+      "key": "online_in_daiji",
+      "frames": 90,
+      "columns": 10,
+      "rows": 9,
+      "duration": 3,
+      "worldSize": 640
+    },
+    {
+      "key": "online_in_dakai",
+      "frames": 92,
+      "columns": 10,
+      "rows": 10,
+      "duration": 3.0667,
+      "worldSize": 640
+    }
+  ]
+}
